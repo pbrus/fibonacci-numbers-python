@@ -4,7 +4,7 @@ This document describes how to generate any element of the Fibonacci sequence. A
 
 ## Requirements
 
-The document was prepared with usage *Python 3.4* and the following package:
+The document was prepared with the usage of *Python 3.4* and the following package:
 
  * *matplotlib 2.1.0*
 
